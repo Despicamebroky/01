@@ -1,0 +1,20 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Cenas","order":10,"path":"folders/Cenas.yy",},
+    {"name":"Objetos","order":9,"path":"folders/Objetos.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oInimigo","order":4,"path":"objects/oInimigo/oInimigo.yy",},
+    {"name":"oMoeda","order":3,"path":"objects/oMoeda/oMoeda.yy",},
+    {"name":"oPiso","order":2,"path":"objects/oPiso/oPiso.yy",},
+    {"name":"oSpike","order":1,"path":"objects/oSpike/oSpike.yy",},
+    {"name":"sFundo","order":3,"path":"sprites/sFundo/sFundo.yy",},
+    {"name":"sInimigo","order":6,"path":"sprites/sInimigo/sInimigo.yy",},
+    {"name":"sMoeda","order":5,"path":"sprites/sMoeda/sMoeda.yy",},
+    {"name":"sPlayer","order":1,"path":"sprites/sPlayer/sPlayer.yy",},
+    {"name":"sPlayerAnda","order":4,"path":"sprites/sPlayerAnda/sPlayerAnda.yy",},
+    {"name":"Sprite8","order":11,"path":"sprites/Sprite8/Sprite8.yy",},
+    {"name":"sSpike","order":2,"path":"sprites/sSpike/sSpike.yy",},
+  ],
+}
